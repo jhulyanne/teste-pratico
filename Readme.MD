@@ -1,5 +1,3 @@
-Caso haja problemas com as imagens, também é possível visualisar por [este link](https://www.figma.com/design/V7zKHcWg4hM5OZ72c5XFO0/Untitled?node-id=0-1&p=f&t=RCBOmFARgv2ZVpF3-0).
-
 ### Exercício 1 - Analisar o design de um pop-up e propor um redesenho.
 Remodelei para um design mais clean, mas tentando manter o padrão da imagem ao fundo. o intuito era criar um design simples que funionasse para qualquer faixa etária.
 - O botão de fechar estava pequeno e o título do pop up bloqueava parte dele. Pensando num layout mais clean, deixei ele maior, sem o texto de acompanhamento, trocando por um novo tom de cinza, assim ele não chama mais atenção que a imagem central;
@@ -11,5 +9,5 @@ Remodelei para um design mais clean, mas tentando manter o padrão da imagem ao 
 
 ![alt text](images/pop-up-2.png)
 
-### Exercício 2 - Landing page
+### Exercício 2 - Criação de Layout para Landing Page
 ![alt text](images/landing-page.png)
