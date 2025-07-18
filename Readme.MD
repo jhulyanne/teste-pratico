@@ -7,7 +7,7 @@ Remodelei para um design mais clean, mas tentando manter o padrão da imagem ao 
 - Call to action renomeada para algo menos genérico, tornando o conteúdo do botão mais informativo;
 - Cores e layout de "progresso" alterados para maior clareza.
 
-![alt text](images/pop-up-2.png)
+![alt text](images/pop-up-1.png)
 
 ### Exercício 2 - Criação de Layout para Landing Page
 ![alt text](images/landing-page.png)
